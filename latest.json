@@ -1,11 +1,11 @@
 {
-  "version": "67.0.1",
-  "notes": "Arkaiv update 67.0.1",
+  "version": "67.0.2",
+  "notes": "Arkaiv update 67.0.2",
   "pub_date": "2024-09-13T09:55:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSbms0bHN6ajlEblZHR1IycDFMQjFwSHFwOXN3UmF5Z1dONHloQkFsUE0vZGZKcnovb3g3VHIxN2c5TEZ1dmZCYU1YQWlKTmE1N0ErZmJabnVRdi9LZnhCU1RLMGVoa1FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwNjQzNzc5CWZpbGU6QXJrYWl2XzY3LjAuMV94NjRfZW4tVVMubXNpLnppcApKcmM3ZEVvb25EWDkxMHRWSVJPamxpcE1URlJvMnZmMWhValpUZ25PczdlcW12c1lWWnlZNldXdFloVnRxM20yZCtpWjRlNVhYVjM5LzFPL0dXbHVCUT09Cg==",
-      "url": "https://github.com/adygabor98/Arkaiv-installation/releases/download/67.0.1/Arkaiv_67.0.1_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSbms0bHN6ajlEbmYxdE1lMEJPWSs0SnFKMlk4MzMxdVI3VnFtYUE2Y25mVG90Y3BlaHlpQWFQWXdVNGF1dUIzbURQWkNTcUhac25iaXE4WWJWTlRTUDBUQ2xKeGU3dVFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwNjQ1MTQ5CWZpbGU6QXJrYWl2XzY3LjAuMl94NjRfZW4tVVMubXNpLnppcApsNE5RTTJtaTdzLzdQL0pHZm5mM3IrcFE2blJjcVJZZGJkSHZCZnB4V1VBVThGcGwra1dSRFdVZmRrSW5TNTJTeHVldVdRVHBtdzkvLzg5ZHZUREpCUT09Cg==",
+      "url": "https://github.com/adygabor98/Arkaiv-installation/releases/download/67.0.2/Arkaiv_67.0.2_x64_en-US.msi.zip"
     }
   }
 }
